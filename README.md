@@ -8,3 +8,6 @@ ver.0.1
 ## 機能
 このwebツールはスマホをふることでおみくじをひけます。
 https://aet42.github.io/Digital_Fortune/startpage.html
+# Lisence
+
+This project is licensed under the MIT License, see the LICENSE.txt file for details
