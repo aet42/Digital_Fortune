@@ -10,4 +10,4 @@ ver.0.1
 https://aet42.github.io/Digital_Fortune/startpage.html
 # Lisence
 
-This project is licensed under the MIT License, see the LICENSE.txt file for details
+This project is licensed under the MIT License, see the LICENSE.md file for details
