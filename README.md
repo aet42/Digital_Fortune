@@ -6,7 +6,7 @@ ver.0.1
 高校の文化祭に向けて作りました。
 フォルダ構成は何も考えて作られていないので今後更新予定です。
 ## 機能
-このwebツールはスマホをふることでおみくじをひけます。
+このwebツールはdevicemotionapiを利用してスマホをふることでおみくじをひけます。
 https://aet42.github.io/Digital_Fortune/startpage.html
 # Lisence
 
